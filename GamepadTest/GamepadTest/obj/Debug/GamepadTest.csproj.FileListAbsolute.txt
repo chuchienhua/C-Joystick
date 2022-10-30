@@ -1,0 +1,246 @@
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe.config
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\GamepadTest.pdb
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\OpenJigWare.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\AForge.Controls.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\AForge.Video.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Microsoft.Speech.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\MyoSharp.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\AForge.Imaging.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\IronPython.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\AForge.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csprojResolveAssemblyReference.cache
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Form1.resources
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Properties.Resources.resources
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.GenerateResource.Cache
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\obj\Debug\GamepadTest.exe
+C:\Users\Einsbon Kim\Documents\Visual Studio 2017\Projects\GamepadTest\GamepadTest\obj\Debug\GamepadTest.pdb
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe.config
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\GamepadTest.pdb
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\AForge.Controls.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Microsoft.Speech.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\MyoSharp.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\AForge.Imaging.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\IronPython.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\AForge.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\user\Desktop\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Form1.resources
+C:\Users\user\Desktop\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Properties.Resources.resources
+C:\Users\user\Desktop\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CopyComplete
+C:\Users\user\Desktop\GamepadTest\GamepadTest\obj\Debug\GamepadTest.exe
+C:\Users\user\Desktop\GamepadTest\GamepadTest\obj\Debug\GamepadTest.pdb
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe.config
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\GamepadTest.pdb
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\AForge.Controls.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\AForge.Video.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Interop.SKYPE4COMLib.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Microsoft.Speech.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\MyoSharp.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\LeapCSharp.NET3.5.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\AxInterop.WMPLib.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\AForge.Video.DirectShow.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\AForge.Imaging.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\IronPython.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Interop.WMPLib.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\AForge.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Microsoft.Contracts.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Microsoft.Dynamic.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csprojAssemblyReference.cache
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Form1.resources
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Properties.Resources.resources
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.GenerateResource.cache
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CoreCompileInputs.cache
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CopyComplete
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\obj\Debug\GamepadTest.exe
+D:\課程資料\UR手臂\上層介面搖桿(C#)\手持搖桿原始\GamepadTest\GamepadTest\obj\Debug\GamepadTest.pdb
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe.config
+C:\Users\user\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.exe
+C:\Users\user\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.pdb
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\GamepadTest.pdb
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.Controls.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.Video.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Speech.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\MyoSharp.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.Imaging.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\IronPython.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Form1.resources
+C:\Users\user\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Properties.Resources.resources
+C:\Users\user\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe.config
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\GamepadTest.pdb
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.Controls.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Speech.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\MyoSharp.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.Imaging.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\IronPython.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\AForge.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Form1.resources
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Properties.Resources.resources
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.exe
+C:\Users\user\Desktop\NTUST\boling_digital\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.pdb
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.dll
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.xml
+C:\Users\user\Downloads\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.xml
+C:\Users\user\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csprojAssemblyReference.cache
+C:\Users\user\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CopyComplete
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe.config
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\GamepadTest.pdb
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\AForge.Controls.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\AForge.Video.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Microsoft.Speech.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\MyoSharp.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\AForge.Imaging.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\IronPython.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\AForge.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.xml
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.xml
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csprojAssemblyReference.cache
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Form1.resources
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Properties.Resources.resources
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.GenerateResource.cache
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CoreCompileInputs.cache
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CopyComplete
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\obj\Debug\GamepadTest.exe
+C:\Users\k0103\source\repos\GamepadTest\GamepadTest\obj\Debug\GamepadTest.pdb
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe.config
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\GamepadTest.pdb
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\AForge.Controls.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\AForge.Video.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Microsoft.Speech.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\MyoSharp.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\AForge.Imaging.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\IronPython.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\AForge.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.xml
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.xml
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.AssemblyReference.cache
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Form1.resources
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Properties.Resources.resources
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.GenerateResource.cache
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CoreCompileInputs.cache
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CopyComplete
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\obj\Debug\GamepadTest.exe
+C:\Users\cysk9\Desktop\搖桿\GamepadTest\GamepadTest\obj\Debug\GamepadTest.pdb
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe.config
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\GamepadTest.exe
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\GamepadTest.pdb
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\AForge.Controls.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\AForge.Video.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Microsoft.Speech.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\MyoSharp.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\AForge.Imaging.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\IronPython.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\AForge.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Tao.OpenGl.xml
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\bin\Debug\Tao.FreeGlut.xml
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.AssemblyReference.cache
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Form1.resources
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\obj\Debug\GamepadTest.Properties.Resources.resources
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.GenerateResource.cache
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CoreCompileInputs.cache
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\obj\Debug\GamepadTest.csproj.CopyComplete
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\obj\Debug\GamepadTest.exe
+C:\Users\cysk9\Desktop\程式\Nano_control\GamepadTest\GamepadTest\obj\Debug\GamepadTest.pdb
